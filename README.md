@@ -1,2 +1,3 @@
 # spiri_token
-my first token on aleph zero
+
+visit https://docs.alephzero.org/aleph-zero/build/aleph-zero-smart-contracts-basics for docs
